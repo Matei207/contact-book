@@ -1,4 +1,5 @@
 # Java Servlet & JDBC - Contact Book
+[![Build Status](https://dev.azure.com/MXD615/java-contact-book/_apis/build/status/Matei207.contact-book?branchName=master)](https://dev.azure.com/MXD615/java-contact-book/_build/latest?definitionId=4&branchName=master)
 
 ## use servlet & jdbc 
 
